@@ -7,9 +7,9 @@ const Header = () => {
         <div className="d-flex justify-content-center">
 
                     <nav className="navbar navbar-expand-lg">
-                        <a href="#Home" className="nav-link active fs-2 text-light">Home</a>
-                        <a href="#Contact" className="nav-link active fs-2 text-light">Contact</a>
-                        <a href="#Work" className="nav-link active fs-2 text-light">Work</a>
+                        <a href="/Home" className="nav-link active fs-2 text-light">Home</a>
+                        <a href="/Contact" className="nav-link active fs-2 text-light">Contact</a>
+                        <a href="/Work" className="nav-link active fs-2 text-light">Work</a>
 
 
                         <button className="navbar-toggler" type="button" data-bs-toggle="collapse"

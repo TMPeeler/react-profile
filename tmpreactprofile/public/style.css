@@ -1,0 +1,18 @@
+footer {
+    position: absolute;
+    bottom: 0vh;
+    width: 100%;
+}
+
+body {
+
+    background-color: rgb(31, 30, 30);
+}
+
+.foot {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    margin-top: 10px;
+}

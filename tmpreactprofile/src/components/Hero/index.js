@@ -6,7 +6,7 @@ const Hero = () => {
         <div className="container-fluid">
             <div className="row ">
 
-                <img src="./IMG_0524.jpg" alt="bus stop" height="500" width="2000" />
+                <img src="../images/IMG_0524.jpg" alt="bus stop" height="500" width="2000" />
                     </div>
             </div>
 
