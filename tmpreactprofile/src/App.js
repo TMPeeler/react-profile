@@ -12,7 +12,7 @@ import Work from "../src/pages/Work"
 
 function App() {
     return (
-        <Router>
+        <Router basename={process.env.PUBLIC_URL}>
         <div className="container-fluid">
             <div className="row">
                 <div className="col-lg-12 min-vh-100">
