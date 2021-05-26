@@ -9,8 +9,8 @@ const Header = () => {
                     <nav className="navbar navbar-expand-lg">
                    
                         <Link to="/" className="nav-link active fs-2 text-light">Home</Link>
-                        <Link href="/Contact" className="nav-link active fs-2 text-light">Contact</Link>
-                        <Link href="/Work" className="nav-link active fs-2 text-light">Work</Link>
+                        <Link to="/Contact" className="nav-link active fs-2 text-light">Contact</Link>
+                        <Link to="/Work" className="nav-link active fs-2 text-light">Work</Link>
                         
                         <button className="navbar-toggler" type="button" data-bs-toggle="collapse"
                             data-bs-target="#navbarNavDarkDropdown" aria-controls="navbarNavDarkDropdown"
