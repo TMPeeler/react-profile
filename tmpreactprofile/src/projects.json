@@ -1,13 +1,13 @@
 [
     {
         "name": "Front-End Project",
-        "pic": "../images/gamehub.png",
+        "pic": "./images/gamehub.png",
         "link": "https://acedyu.github.io/gamehub/",
         "repo": "https://github.com/AcedYu/gamehub"
     },
     {
         "name": "Password Generator",
-        "pic": "../images/PasswordGen.png",
+        "pic": "./images/PasswordGen.png",
         "link": "https://tmpeeler.github.io/passwordgenHW/",
         "repo": "https://github.com/TMPeeler/passwordgenHW"
     },
@@ -19,19 +19,19 @@
     },
     {
         "name": "Up For Beer Review",
-        "pic": "../images/beerreview.png",
+        "pic": "./images/beerreview.png",
         "link": "https://upforbeerreview.herokuapp.com/",
         "repo": "https://github.com/TMPeeler/Project-2"
     },
     {
         "name": "Clicky Game!",
-        "pic": "../images/clickygame.png",
+        "pic": "./images/clickygame.png",
         "link": "https://tmpeeler.github.io/clicky-game/",
         "repo": "https://github.com/TMPeeler/clicky-game"
     },
     {
         "name": "Employee Directory",
-        "pic": "../images/employeedirectory.png",
+        "pic": "./images/employeedirectory.png",
         "link": "https://tmpeeler.github.io/EmployeeDirectory/",
         "repo": "https://github.com/TMPeeler/EmployeeDirectory"
     }
