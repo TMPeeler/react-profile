@@ -1,5 +1,5 @@
 import React from "react";
-// import {Link} from "react-router-dom";
+import {Link} from "react-router-dom";
 
 const Header = () => {
     return (
@@ -7,9 +7,11 @@ const Header = () => {
         <div className="d-flex justify-content-center">
 
                     <nav className="navbar navbar-expand-lg">
-                        <a href="/Home" className="nav-link active fs-2 text-light">Home</a>
-                        <a href="/Contact" className="nav-link active fs-2 text-light">Contact</a>
-                        <a href="/Work" className="nav-link active fs-2 text-light">Work</a>
+                   
+                        <Link to="/" className="nav-link active fs-2 text-light">Home</Link>
+                        <Link href="/Contact" className="nav-link active fs-2 text-light">Contact</Link>
+                        <Link href="/Work" className="nav-link active fs-2 text-light">Work</Link>
+                        
                         <button className="navbar-toggler" type="button" data-bs-toggle="collapse"
                             data-bs-target="#navbarNavDarkDropdown" aria-controls="navbarNavDarkDropdown"
                             aria-expanded="false" aria-label="Toggle navigation">
